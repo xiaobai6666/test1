@@ -7,3 +7,5 @@ from sw
 new dev branch
 test
 from dev
+
+git merge dev
